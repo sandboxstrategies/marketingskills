@@ -1,9 +1,11 @@
 # Dependencies
 node_modules/
 
-# Skill install artifacts (npx skills add) — except the Codex plugin marketplace, which is checked in
+# Skill install artifacts (npx skills add) — except the Codex plugin marketplace
+# and the product-marketing context this fork's skills read, which are checked in
 .agents/*
 !.agents/plugins/
+!.agents/product-marketing.md
 .claude/
 skills-lock.json
 
