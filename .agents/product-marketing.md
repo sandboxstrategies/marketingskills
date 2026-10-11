@@ -1,16 +1,16 @@
 # Product Marketing Context
 
-**Document version:** v1
-**Last updated:** 2026-10-10
+**Document version:** v2
+**Last updated:** 2026-10-11
 
 > Draft by Sous Chef from internal notes. Every `TODO` is unknown and must be filled by the owner. Nothing here is invented.
 
 ## Product Overview
-**One-liner:** TODO (draft: "Presale access to sealed Pokémon TCG product, handled calmly and transparently.")
-**What it does:** tcgslayer.io is a presale shop for sealed Pokémon Trading Card Game product. The operator sources product, lists it in a catalog, takes customer commitments for a drop, then settles. Customers either get their order, or the order is cancelled if the drop fails.
-**Product category:** Pokémon TCG sealed product / presale shop
+**One-liner:** TODO (draft: "A single-brand presale for the Pokémon TCG 30th Celebration Ultra-Premium Collection — Day, Night, or both.")
+**What it does:** tcgslayer.io is a single-brand presale shop for one sealed Pokémon Trading Card Game product: the 30th Celebration Ultra-Premium Collection, in Day and Night versions. A customer buys a box, or both versions. Orders ship by November 27, 2026, or they are cancelled for a full refund. Limit 3 Day and 3 Night per shipping address. TCGSlayer also earns from affiliate links.
+**Product category:** Pokémon TCG sealed product / single-brand presale shop
 **Product type:** E-commerce (presale)
-**Business model:** Retail price per item, plus a **leftover fee shown as a separate line** from retail. Amounts and fee structure: TODO.
+**Business model:** Presale of the 30th Celebration Ultra-Premium Collection, plus affiliate-link earnings. **Price:** $300 a box (Day or Night) or $600 for both, shipping and tax included. **Fee:** none. No separate fee line. Do not present this price as the lowest available. Target lists the collection at $249.99.
 
 ## Target Audience
 **Target companies:** N/A (B2C)
@@ -34,14 +34,14 @@ B2C. Skip the B2B personas. Customer segments: TODO.
 
 ## Competitive Landscape
 **Direct:** TODO (other sealed presale shops)
-**Secondary:** TODO (big-box retail drops, TikTok Shop presale listings exist; see marketing-machine.md)
+**Secondary:** TODO (big-box retail drops, TikTok Shop presale listings exist; see marketing-machine.md). Target lists this collection at $249.99. Do not claim TCGSlayer's $300 price is the lowest available.
 **Indirect:** TODO (secondary market / singles; rip-and-ship streams)
 
 ## Differentiation
 **Key differentiators:**
-- Calm, transparent experience ("gallery-calm" customer side) (TODO: confirm phrasing)
-- Clear pricing: the leftover fee is itemized separately from retail
-- Honest failure handling: a failed drop is a **cancel**
+- Voice: prestige RPG / dragon-slayer storybook. Trustworthy, not childish.
+- All-in price: $300 a box or $600 for both, shipping and tax included, with no fee. This is not the lowest available price (Target lists it at $249.99).
+- Ships by November 27, 2026, or the order is cancelled for a full refund
 **How we do it differently:** TODO
 **Why that's better:** TODO
 **Why customers choose us:** TODO (no proof yet)
@@ -49,7 +49,7 @@ B2C. Skip the B2B personas. Customer segments: TODO.
 ## Objections
 | Objection | Response |
 |-----------|----------|
-| TODO (e.g. "What if the drop fails?") | Order is cancelled (exact mechanics: TODO) |
+| TODO (e.g. "What if it doesn't ship?") | Cancelled for a full refund if it has not shipped by November 27, 2026 (customer-facing wording: TODO) |
 | TODO | TODO |
 
 **Anti-persona:** TODO (possibly: people seeking guaranteed investment returns or gambling-style rips; confirm)
@@ -65,27 +65,26 @@ B2C. Skip the B2B personas. Customer segments: TODO.
 - TODO (collect verbatim)
 **How they describe us:**
 - TODO
-**Words to use:** presale, sealed, catalog, drop, commit, cancel; "Pokémon TCG" used only to describe product (TODO: expand)
+**Words to use:** presale, sealed, Day, Night, cancel, refund; "Pokémon TCG" and the product name used only to describe the product (TODO: expand)
 **Words to avoid (hard rules):**
+- "guarantee" / "guaranteed"
 - "wallet"
 - "your payment funds the card"
 - any **fake live feed** ("X just bought…" unless real and opted-in)
 - **fake scarcity / social proof** ("only X left", "selling fast") unless backed by live inventory data
-- "refund" framing for failed drops (a failed drop is a **cancel**, not a refund story)
-- investment/profit promises ("guaranteed", "will go up")
+- investment/profit promises ("will go up", or any investment "guarantee")
+- calling $300 / $600 the lowest price (Target lists the collection at $249.99)
 
 **Glossary:**
 | Term | Meaning |
 |------|---------|
-| Source | Operator acquires product (internal) |
-| Catalog | Product listed for presale |
-| Commit | Customer commits to a presale item |
-| Settle | Drop resolves: fulfilled or cancelled |
-| Leftover fee | Separate line item from retail. Definition: TODO |
-| ACO | Operator-side flow; never customer-facing language |
+| 30th Celebration Ultra-Premium Collection | The only product TCGSlayer presells, in Day and Night versions |
+| Day / Night | The two versions. $300 each, or $600 for both. Shipping and tax included. No fee. |
+| Purchase limit | 3 Day and 3 Night per shipping address |
+| Affiliate | TCGSlayer also earns from affiliate links |
 
 ## Brand Voice
-**Tone:** Calm, gallery-like, precise. Not hype. (Details: TODO)
+**Tone:** Prestige RPG / dragon-slayer storybook. Trustworthy, and not childish.
 **Style:** TODO
 **Personality:** TODO (3–5 adjectives)
 
@@ -96,22 +95,23 @@ B2C. Skip the B2B personas. Customer segments: TODO.
 **Value themes:**
 | Theme | Proof |
 |-------|-------|
-| Transparent pricing | Itemized leftover fee (TODO: screenshot) |
-| Honest cancellations | TODO |
+| All-in price | $300 a box or $600 for both, shipping and tax included. No fee. Not the lowest price — Target lists it at $249.99. |
+| Ships or full refund | Ships by November 27, 2026, or the order is cancelled for a full refund. Proof: TODO |
 
 ## Goals
 **Business goal:** TODO
-**Conversion action:** TODO (e.g. presale commit on tcgslayer.io)
+**Conversion action:** TODO (e.g. buy the presale on tcgslayer.io)
 **Current metrics:** TODO
-**Launch dates:** TODO
+**Launch dates:** Public release November 6, 2026. Ships by November 27, 2026, or the order is cancelled for a full refund.
 
 ## Content & Compliance Notes (TCGSlayer-specific)
 - **Not affiliated** with Nintendo, The Pokémon Company, Creatures or GAME FREAK. Say so in bios/footers.
 - No official Pokémon art or logos, and no AI-generated Pokémon. Show only our own photos of real product. Product names are used descriptively only.
-- Content formats (from research): presale vs current market price (cite source on screen), open-or-keep-sealed explainers (educational, no ROI promises), release calendars, stock-arrival footage, disclosed micro-collabs (paid-partnership / branded-content labels).
+- Content formats (from research): presale vs current market price (cite source on screen; do not present $300 as lower than Target's $249.99), open-or-keep-sealed explainers (educational, no ROI promises), release calendars, stock-arrival footage, disclosed micro-collabs (paid-partnership / branded-content labels).
 - Pack openings / rip content: **undecided (TODO)**.
 - No bought followers/engagement, and no fake reviews.
 
 ## Changelog
 *Newest first. One line per revision: what changed and why.*
+- v2 (2026-10-11) — Pivoted from an operator presale flow to a single-brand shop for the 30th Celebration Ultra-Premium Collection (Day and Night); set price, no fee, and launch dates; replaced gallery-calm with a prestige RPG voice.
 - v1 (2026-10-10) — Initial context drafted from internal notes; unknowns marked TODO.
